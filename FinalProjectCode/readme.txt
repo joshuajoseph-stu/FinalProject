@@ -63,3 +63,8 @@ incase we need to change config of website or spring,
 2.2.1 have to cd to correct directory. ls and find htdocs/ cd into it and ls and youll see all your files 
 2.6. to edit hit i to enter insert mode in vi, then after changing it hit esc. then hit : and type wq! and hit enter. should be saved
 3. can also change html pages and whatever
+
+demo data: 
+11, Silver Necklace, Silver, 999, SN58
+12, Red Orb, Ruby, 1499, RO29
+13, Tanjiro Earrings, Platinum, 1299, TE37
